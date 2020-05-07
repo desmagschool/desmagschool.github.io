@@ -1,0 +1,34 @@
+.img1{
+    border-radius: 50%;
+}
+
+.img2{
+    border-radius: 10%;
+    height: 250px;
+}
+
+
+#d{
+    color: #6A22AD;
+}
+
+#e{
+    color: #DD6666;
+}
+
+#s{
+    color: #22DD66;
+}
+
+#m{
+    color: gold;
+}
+#a{
+    color: #AB266A;
+}
+#g{
+    color: #6c446c;
+}
+
+.bg-light1 {
+  background-color: #f3f3f5 !important; }
